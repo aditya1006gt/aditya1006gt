@@ -56,6 +56,5 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-1006&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-1006&layout=compact&theme=radical)
-
+![Aditya's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aditya1006gt&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aditya1006gt&layout=compact&theme=radical&langs_count=8)
