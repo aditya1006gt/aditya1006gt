@@ -10,6 +10,7 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:01aditya1006@gmail.com)
 
 ## 🔸 Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -19,6 +20,7 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🔸 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +28,7 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🔸 Backend & Realtime
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge)
@@ -33,6 +36,7 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ## 🔸 Databases & ORM
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,6 +50,7 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
 
 ## 🔸 Tools
 
@@ -56,5 +61,5 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aditya1006gt&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aditya1006gt&layout=compact&theme=radical&langs_count=8)
+![Aditya's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aditya1006gt&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya1006gt&layout=compact&theme=radical&cache_seconds=1800)
