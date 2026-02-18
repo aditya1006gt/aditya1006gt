@@ -45,10 +45,13 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 ## 🔸 DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge)
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
 
@@ -59,7 +62,76 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![Aditya's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aditya1006gt&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya1006gt&layout=compact&theme=radical&cache_seconds=1800)
+## 🔹 Real-Time Chat Application
+- WebSockets + Node.js backend
+- JWT Authentication
+- PostgreSQL + Prisma ORM
+- Dockerized deployment
+- Prometheus metrics collection
+- Grafana dashboards for monitoring
+- CI/CD with GitHub Actions
+
+## 🔹 Full-Stack SaaS Application
+- Next.js frontend
+- Express backend
+- REST API architecture
+- PostgreSQL database
+- AWS EC2 deployment
+- S3 for object storage
+- Nginx reverse proxy setup
+
+## 🔹 DevOps Monitoring Setup
+- Kubernetes cluster deployment
+- Containerized microservices
+- Prometheus scraping metrics
+- Grafana dashboards
+- Health checks & observability setup
+
+---
+
+# 🧠 What I Focus On
+
+✔ Scalable REST & WebSocket APIs  
+✔ Secure authentication & backend design  
+✔ Containerized deployments with Docker & Kubernetes  
+✔ CI/CD pipelines & automation  
+✔ Monitoring & observability (Prometheus + Grafana)  
+✔ Performance optimization  
+✔ Competitive Programming & DSA  
+
+---
+
+## 📊 GitHub Stats 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya1006gt&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+![GitHub Streak](https://streak-stats.demolab.com?user=aditya1006gt&theme=dark&hide_border=false) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1006gt&theme=dark&hide_border=false&layout=compact)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aditya1006gt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aditya1006gt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1006gt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya1006gt&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1006gt&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya1006gt&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditya1006gt&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+
+
+# 🏆 Competitive Programming
+
+- Active on Codeforces & LeetCode  
+- Strong focus on Data Structures & Algorithms  
+- Regular contest participation  
+
+---
