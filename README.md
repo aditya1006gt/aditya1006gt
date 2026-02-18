@@ -115,7 +115,7 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya1006gt&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya1006gt&theme=github" />
 </p>
 
 <p align="center">
