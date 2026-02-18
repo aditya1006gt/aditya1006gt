@@ -103,10 +103,11 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 
 ---
 
-# 📊 GitHub Stats 
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditya1006gt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aditya1006gt&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditya1006gt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_private=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aditya1006gt&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_private=true" height="170"/>
 </p>
 
 <p align="center">
@@ -116,7 +117,6 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aditya1006gt&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-
 
 # 🏆 Competitive Programming
 
