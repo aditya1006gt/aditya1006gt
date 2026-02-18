@@ -103,15 +103,11 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 
 ---
 
-## 📊 GitHub Stats 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya1006gt&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
-![GitHub Streak](https://streak-stats.demolab.com?user=aditya1006gt&theme=dark&hide_border=false) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1006gt&theme=dark&hide_border=false&layout=compact)
+# 📊 GitHub Stats 
+![](https://github-readme-stats.vercel.app/api?username=aditya1006gt&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://streak-stats.demolab.com?user=aditya1006gt&theme=dark&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1006gt&theme=dark&hide_border=false&layout=compact)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aditya1006gt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aditya1006gt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1006gt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya1006gt&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
