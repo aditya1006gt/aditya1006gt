@@ -104,24 +104,18 @@ I'm a full-stack developer and competitive programming enthusiast, currently pur
 ---
 
 # 📊 GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=aditya1006gt&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://streak-stats.demolab.com?user=aditya1006gt&theme=dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1006gt&theme=dark&hide_border=false&layout=compact)
-
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditya1006gt&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aditya1006gt&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditya1006gt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aditya1006gt&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya1006gt&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya1006gt&theme=github-dark" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya1006gt&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=aditya1006gt&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-
 
 
 # 🏆 Competitive Programming
